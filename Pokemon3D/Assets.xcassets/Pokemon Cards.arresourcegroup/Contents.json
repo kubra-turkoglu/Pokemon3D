@@ -1,0 +1,41 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "bulbasaurCard.arreferenceimage"
+    },
+    {
+      "filename" : "butterfreeCard.arreferenceimage"
+    },
+    {
+      "filename" : "charmanderCard.arreferenceimage"
+    },
+    {
+      "filename" : "eeveeCard.arreferenceimage"
+    },
+    {
+      "filename" : "jigglypuffCard.arreferenceimage"
+    },
+    {
+      "filename" : "oddishCard.arreferenceimage"
+    },
+    {
+      "filename" : "pidgeottoCard.arreferenceimage"
+    },
+    {
+      "filename" : "pikachuCard.arreferenceimage"
+    },
+    {
+      "filename" : "squirtleCard.arreferenceimage"
+    },
+    {
+      "filename" : "starmieCard.arreferenceimage"
+    },
+    {
+      "filename" : "togepiCard.arreferenceimage"
+    }
+  ]
+}
